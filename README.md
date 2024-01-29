@@ -10,4 +10,4 @@
 
 <h1>Top Languages</h1>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EldritchGriffin&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EldritchGriffin)
