@@ -14,6 +14,6 @@
 
 <h2> Visitor Count <h2>
 
-<p align="center" >   
+<p align="left" >   
   <img src="https://profile-counter.glitch.me/EldritchGriffin/count.svg" />  
 </p>
