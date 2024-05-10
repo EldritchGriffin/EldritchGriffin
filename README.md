@@ -11,3 +11,9 @@
 <h1>Top Languages</h1>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EldritchGriffin)
+
+<h2> Visitor Count <h2>
+
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/EldritchGriffin/count.svg" />  
+</p>
